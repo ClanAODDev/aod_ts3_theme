@@ -159,6 +159,12 @@ TextBrowser {
  	left:11px;
  }	
 
+ QGroupBox {
+	border: 1px solid #272727;
+	font-size: 18px;
+	padding: 30px 10px 20px 10px;
+}
+
 
 QSplitter::handle {
      	background-color: transparent;
