@@ -517,7 +517,7 @@ QTabBar::tab:!selected:bottom {
  	selection-background-color: none;
  }
  QSpinBox::disabled, QDoubleSpinBox#delayPTTSpinBox::disabled, QSpinBox#uploadBWSpinBox::disabled, QSpinBox#downloadBWSpinBox::disabled, QSpinBox#reloadChannelChatsSpinBox::disabled, QSpinBox#reloadClientChatsSpinBox::disabled, QSpinBox#uploadSpeedSpinBox::disabled, QSpinBox#downloadSpeedSpinBox::disabled {
- 	background:  #c2d7e1;
+ 	background:  #222;
  	border: 1px solid #0a057b;
  	border-top-right-radius: 3px;
  	border-bottom-left-radius: 3px;
