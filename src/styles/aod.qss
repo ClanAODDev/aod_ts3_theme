@@ -880,8 +880,9 @@ QTableView::item:selected:!active {
  }
  QTextEdit#pluginDescTextEdit, QTextEdit#descriptionTextEdit, QTextEdit#vserverWelcomeTextEdit, QTextEdit#changeLogTextEdit {
  	border: 1px solid #0a057b;
+	color: #999;
  	border-radius: 3px;
- 	background: transparent;
+ 	background: #000;
  }
  MainWindowServerTabsWidget, MainWindowChatWidget {
  	background: transparent;
